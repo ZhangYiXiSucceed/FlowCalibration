@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="VST20191105"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vst_software/VST20191119/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/vst_software/VST20191119/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vst_software/VST20191119/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VST20191105">
+				<Option output="/home/vst_software/VST20191119/cmake-build-debug/VST20191105" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vst_software/VST20191119/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/4.9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/4.9/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 VST20191105"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VST20191105/fast">
+				<Option output="/home/vst_software/VST20191119/cmake-build-debug/VST20191105" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vst_software/VST20191119/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/4.9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/arm-linux-gnueabihf/4.9/include-fixed"/>
+					<Add directory="/usr/include/arm-linux-gnueabihf"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 VST20191105/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vst_software/VST20191119/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vst_software/VST20191119/Mythread.c">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/Mythread.h">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/Net.c">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/Net.h">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/Queue.c">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/Queue.h">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/ReadConfig.c">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/ReadConfig.h">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/main.c">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/timer.c">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/timer.h">
+			<Option target="VST20191105"/>
+		</Unit>
+		<Unit filename="/home/vst_software/VST20191119/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
