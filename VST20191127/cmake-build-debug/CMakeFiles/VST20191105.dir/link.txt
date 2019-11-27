@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -lpthread -lpthread  CMakeFiles/VST20191105.dir/main.c.o CMakeFiles/VST20191105.dir/Mythread.c.o CMakeFiles/VST20191105.dir/Net.c.o CMakeFiles/VST20191105.dir/Queue.c.o CMakeFiles/VST20191105.dir/ReadConfig.c.o CMakeFiles/VST20191105.dir/timer.c.o  -o VST20191105 

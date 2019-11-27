@@ -1,3 +1,0 @@
-/home/vst_software/VST20191119/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/vst_software/VST20191119/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vst_software/VST20191119/cmake-build-debug/CMakeFiles/VST20191105.dir
