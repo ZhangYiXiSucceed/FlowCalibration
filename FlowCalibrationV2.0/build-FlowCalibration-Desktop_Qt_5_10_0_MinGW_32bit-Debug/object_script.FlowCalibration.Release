@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\FCMainWindow.o
+./release\FCOperationFlowmeter.o
+./release\FCParameter.o
+./release\FCRecordEvent.o
+./release\qcustomplot.o
+./release\qrc_resources.o
+./release\moc_FCMainWindow.o
+./release\moc_FCOperationFlowmeter.o
+./release\moc_FCParameter.o
+./release\moc_FCRecordEvent.o
+./release\moc_qcustomplot.o
+);
