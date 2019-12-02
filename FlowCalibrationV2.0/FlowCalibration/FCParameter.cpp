@@ -161,6 +161,7 @@ void FCParameter::InitConnect()
     connect(ui->tbnNullDriftCalibration,SIGNAL(clicked(bool)),this,SLOT(NullDriftCalibration()));
     connect(ui->tbnRead,SIGNAL(clicked(bool)),this,SLOT(Read()));
     connect(ui->tbnWrite,SIGNAL(clicked(bool)),this,SLOT(Write()));
+    connect(ui->leRange,SIGNAL(textEdited()),this,SLOT(WriteCalibrationPara()));
 }
 void FCParameter::Read()
 {

@@ -1,0 +1,12 @@
+debug/main.o
+debug/FCMainWindow.o
+debug/FCOperationFlowmeter.o
+debug/FCParameter.o
+debug/FCRecordEvent.o
+debug/qcustomplot.o
+debug/qrc_resources.o
+debug/moc_FCMainWindow.o
+debug/moc_FCOperationFlowmeter.o
+debug/moc_FCParameter.o
+debug/moc_FCRecordEvent.o
+debug/moc_qcustomplot.o
