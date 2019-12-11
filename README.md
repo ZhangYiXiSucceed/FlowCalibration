@@ -5,7 +5,7 @@
 ## 项目特性
 
 ## 软件附图
-
+![FlowCalibration](https://github.com/ZhangYiXiSucceed/FlowCalibration/blob/master/IMG/FlowCalibration.png)
 ## 关于本项目
 + 项目作者：ZGQ
 + 邮箱：Guoqingzhang0813@163.com
