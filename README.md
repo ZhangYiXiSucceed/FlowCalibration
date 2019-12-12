@@ -8,8 +8,8 @@
 &#160; &#160; &#160; &#160; 开始调用Qt中API函数查找到所有可用的端口，接着轮询各个端口，判断端口是否打开，若已打开则进行下一端口轮询，否则使用协议数据向该端口发送，同时开启定时器，若一定时间内收到响应数据，则该端口为目标设备端口，获取端口号并显示之后，进行下个设备端口的查找；若未收到响应数据则进行下一端口轮询，直到有数据响应，若遍历完所有端口后，均未有响应数据，则提示用户该物理设备可能未与PC机连接。
 
 ### 2.绘图工具包QCustomPlot
-&#160; &#160; &#160; &#160; 本项目使用第三方开源库QCustomPlot来绘制数据曲线。
-![QCustomPlot](https://github.com/ZhangYiXiSucceed/FlowCalibration/blob/master/IMG/QCustomPlot.jpg)
+&#160; &#160; &#160; &#160; 本项目使用第三方开源库QCustomPlot来绘制数据曲线。<br/>
+![QCustomPlot](https://github.com/ZhangYiXiSucceed/FlowCalibration/blob/master/IMG/QCustomPlot.jpg)<br/>
 <center>开源第三方库QCustomPlot</center>
 &#160; &#160; &#160; &#160; QCustomPlot是用于绘图和数据可视化的Qt C ++小部件。它没有进一步的依赖关系，并且有据可查。该绘图库专注于制作美观，出版质量的2D绘图，图形和图表，以及为实时可视化应用程序提供高性能。QCustomPlot可以导出为各种格式，例如矢量化的PDF文件和光栅化的图像（如PNG，JPG和BMP）。QCustomPlot是用于在应用程序内部显示实时数据以及为其他媒体生成高质量图的解决方案。
 官方网址：https://www.qcustomplot.com/index.php/introduction
