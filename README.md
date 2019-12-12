@@ -9,9 +9,9 @@
 
 ### 2.绘图工具包QCustomPlot
 &#160; &#160; &#160; &#160; 本项目使用第三方开源库QCustomPlot来绘制数据曲线。<br/>
-<center>![QCustomPlot](https://github.com/ZhangYiXiSucceed/FlowCalibration/blob/master/IMG/QCustomPlot.jpg)</center><br/>
+![QCustomPlot](https://github.com/ZhangYiXiSucceed/FlowCalibration/blob/master/IMG/QCustomPlot.jpg)<br/>
 <center>开源第三方库QCustomPlot</center><br/>
-&#160; &#160; &#160; &#160; QCustomPlot是用于绘图和数据可视化的Qt C ++小部件。它没有进一步的依赖关系，并且有据可查。该绘图库专注于制作美观，出版质量的2D绘图，图形和图表，以及为实时可视化应用程序提供高性能。QCustomPlot可以导出为各种格式，例如矢量化的PDF文件和光栅化的图像（如PNG，JPG和BMP）。QCustomPlot是用于在应用程序内部显示实时数据以及为其他媒体生成高质量图的解决方案。
+&#160; &#160; &#160; &#160; QCustomPlot是用于绘图和数据可视化的Qt C ++小部件。它没有进一步的依赖关系，并且有据可查。该绘图库专注于制作美观，出版质量的2D绘图，图形和图表，以及为实时可视化应用程序提供高性能。QCustomPlot可以导出为各种格式，例如矢量化的PDF文件和光栅化的图像（如PNG，JPG和BMP）。QCustomPlot是用于在应用程序内部显示实时数据以及为其他媒体生成高质量图的解决方案。<br/>
 官方网址：https://www.qcustomplot.com/index.php/introduction
 
 ### 3.Modbus RTU协议数据解析
